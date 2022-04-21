@@ -2,11 +2,11 @@
 
 ## Description
 
-Solution to the Odin Project exercise called 'Mini Message Board'
+An Express application based on the Odin Project exercise - **'Mini Message Board'**
 
 ## What I've Learnt
 
-- Express backend framework
-- Creating views (hbs view engine)
+- Setting up an Express application
+- Serving views (handlebars view engine)
 - Routing - handling both GET/POST requests
 
